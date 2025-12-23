@@ -1,3 +1,6 @@
-from module import connect
+def main():
+    print("Hello from vender-performance-analysis-project!")
 
-connect()
+
+if __name__ == "__main__":
+    main()
